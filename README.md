@@ -1,2 +1,2 @@
 # Angular7
-My projects on Angular
+My projects on Angular.
